@@ -49,7 +49,7 @@
         android:id="@+id/imageView10"
         android:layout_width="165dp"
         android:layout_height="90dp"
-        android:paddingRight="95dp"
+        android:paddingRight="99dp"
         android:paddingBottom="60dp"
         android:rotation="180"
         app:layout_constraintBottom_toBottomOf="parent"

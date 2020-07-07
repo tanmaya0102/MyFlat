@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_icon_ionic_ios_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/call"
+        android:icon="@drawable/ic_icon_material_call"
+        android:title="Call For Service"/>
+    <item
+        android:id="@+id/developer"
+        android:icon="@drawable/ic_icon_awesome_file_code"
+        android:title="Developer"/>
+
+</menu>

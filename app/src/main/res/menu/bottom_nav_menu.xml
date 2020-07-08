@@ -7,10 +7,10 @@
     <item
         android:id="@+id/call"
         android:icon="@drawable/ic_icon_material_call"
-        android:title="Call For Service"/>
+        android:title="Contact"/>
     <item
         android:id="@+id/developer"
         android:icon="@drawable/ic_icon_awesome_file_code"
-        android:title="Developer"/>
+        android:title="About"/>
 
 </menu>

@@ -96,7 +96,7 @@ public class fragmenthome extends Fragment {
         reminder.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(getContext(),"Work in Progress!",Toast.LENGTH_LONG).show();   
+                Toast.makeText(getContext(),"Work in Progress!",Toast.LENGTH_LONG).show();
             }
         });
         // Inflate the layout for this fragment
